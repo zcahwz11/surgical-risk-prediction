@@ -1,0 +1,17 @@
+name: surgery-risk-prediction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - scipy=1.11.4
+  - scikit-learn=1.4.2
+  - matplotlib=3.7.5
+  - shap=0.48.0
+  - jupyterlab=4.5.5
+  - ipykernel=7.2.0
+  - pip
+  - pip:
+      - pycaret==3.3.2
+

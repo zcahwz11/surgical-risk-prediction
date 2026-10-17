@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the associated article and this software release.
+title: "Code for machine learning-based prediction of postoperative mortality and major complications"
+type: software
+version: 1.0.0
+date-released: 2026-10-17
+authors:
+  - family-names: Wei
+    given-names: Yuchen
+  - family-names: Zhang
+    given-names: Wenze
+  - family-names: Lin
+    given-names: Guozhang
+  - family-names: Li
+    given-names: Conglu
+  - family-names: Lam
+    given-names: Thomas Yuen Tung
+  - family-names: Hung
+    given-names: Chi Tim
+  - family-names: Leung
+    given-names: Eman
+  - family-names: Yeoh
+    given-names: Eng Kiong
+  - family-names: Cheung
+    given-names: Yue Sun
+  - family-names: Lai
+    given-names: Paul Bo San
+  - family-names: Chong
+    given-names: Ka Chun
+preferred-citation:
+  type: article
+  title: "Machine Learning-Based Prediction of 30-, 60-, and 90-day Postoperative Mortality and Major Complications: An 11-Year Population-Based Cohort Study in Hong Kong"
+  authors:
+    - family-names: Wei
+      given-names: Yuchen
+    - family-names: Zhang
+      given-names: Wenze
+    - family-names: Lin
+      given-names: Guozhang
+    - family-names: Li
+      given-names: Conglu
+    - family-names: Lam
+      given-names: Thomas Yuen Tung
+    - family-names: Hung
+      given-names: Chi Tim
+    - family-names: Leung
+      given-names: Eman
+    - family-names: Yeoh
+      given-names: Eng Kiong
+    - family-names: Cheung
+      given-names: Yue Sun
+    - family-names: Lai
+      given-names: Paul Bo San
+    - family-names: Chong
+      given-names: Ka Chun
